@@ -1,6 +1,14 @@
 # Jogo de Mímica em React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Para jogar: https://mimics-game.vercel.app/
+
+Regras do Jogo: 
+1. Formem duas equipes;
+2. Clique no botão para selecionar uma palavra;
+3. Por meio de mímicas, sem fazer qualquer barulho ou usar objetos a vista, você deve fazer seus companheiros de time adivinharem a palavra selecionada em até 60 segundos;
+4. Ao final, a equipe que acertar mais palavras são os Campeões da mímica. 
+
+Divirtam-se!
 
 ## Available Scripts
 
