@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Jogo de Mímica em React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
