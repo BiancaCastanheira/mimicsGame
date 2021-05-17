@@ -10,6 +10,12 @@ Regras do Jogo:
 
 Divirtam-se!
 
+### Stack Técnica
+Para a criação do jogo, foi utilizado React com Hooks. 
+
+
+Para rodar localmente, abaixo seguem instruções padrões do React:
+
 ## Available Scripts
 
 In the project directory, you can run:
